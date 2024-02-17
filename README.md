@@ -2,8 +2,9 @@ In an age characterized by the digital revolution, understanding customer behavi
 
 In an intensely competitive market, understanding customer behavior is pivotal. Our dataset, from a marketing campaign, offers insights into customer demographics, purchases, and interactions. The aim is to analyze this data to:
 
-Identify high-value demographic segments. 
-Gauge the effectiveness of past marketing campaigns.
-Understand purchase preferences across segments. Predict responsiveness to future campaigns. 
+> Identify high-value demographic segments.
+> Gauge the effectiveness of past marketing campaigns.
+> Understand purchase preferences across segments.
+> Predict responsiveness to future campaigns. 
 
 Through this analysis, we seek to guide the company’s future marketing strategies, ensuring increased customer engagement and revenue.
